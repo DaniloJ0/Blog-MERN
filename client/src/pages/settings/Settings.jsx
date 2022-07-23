@@ -6,8 +6,8 @@ export default function Settings() {
     <div className='settings'>
         <div className='settingsWrapper'>
           <div className="settingsTitle">
-            <span className="settingsUpdateTitle">Update your Account</span>
-            <span className="settingsUpdateTitle">Delete Account</span>
+            <span className="settingsTitleUpdate">Update your Account</span>
+            <span className="settingsTitleDelete">Delete Account</span>
           </div>
           <form className="settingsForm">
             <label >Profile Picture</label>
@@ -26,7 +26,7 @@ export default function Settings() {
             <input type="email" placeholder='safak@gmail.com'/>
             <label>Password</label>
             <input type="password"/>
-            <button className="settingsSubmit">Update</button>
+            <button className="settingsSubmitButton">Update</button>
           </form>
         </div>
         <Sidebar/>

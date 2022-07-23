@@ -7,44 +7,44 @@
     padding: 20px;
   }
   
-  /* .settingsTitle {
+  .settingsTitle {
     display: flex;
     align-items: center;
     justify-content: space-between;
-  } */
+  }
   
-  /* .settingsTitleUpdate {
+  .settingsTitleUpdate {
     font-size: 30px;
     margin-bottom: 20px;
     color: lightcoral;
-  } */
+  }
   
-  /* .settingsTitleDelete {
+  .settingsTitleDelete {
     color: red;
     font-size: 12px;
     cursor: pointer;
-  } */
+  }
   
-  /* .settingsForm {
+  .settingsForm {
     display: flex;
     flex-direction: column;
-  } */
+  }
   
-  /* .settingsPP {
+  .settingsPP {
     display: flex;
     align-items: center;
     margin-top: 10px;
     margin-bottom: 10px;
-  } */
+  }
   
-  /* .settingsPP > img {
+  .settingsPP > img {
     height: 70px;
     width: 70px;
     border-radius: 20px;
     object-fit: cover;
-  } */
+  }
   
-  /* .settingsPPIcon {
+  .settingsPPIcon {
     width: 25px;
     height: 25px;
     padding: 5px;
@@ -57,31 +57,31 @@
     color: white;
     background-color: lightcoral;
     cursor: pointer;
-  } */
+  }
   
-  /* .settingsPPButton:focus {
+  .settingsPPButton:focus {
     outline-style: none;
   }
-   */
-  /* .settingsForm > label {
+  
+  .settingsForm > label {
     font-size: 20px;
     margin-top: 20px;
-  } */
+  }
   
-  /* .settingsPPInput {
+  .settingsPPInput {
     width: 30%;
-  } */
+  }
   
-  /* .settingsForm > input {
+  .settingsForm > input {
     color: gray;
     margin-top: 10px;
     margin-bottom: 10px;
     height: 30px;
     border: none;
     border-bottom: 1px solid lightgray;
-  } */
+  }
   
-  /* .settingsSubmitButton {
+  .settingsSubmitButton {
     align-self: center;
     width: 150px;
     border: none;
@@ -94,10 +94,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  } */
+  }
   
-  /* .settingsSubmitButton:hover {
+  .settingsSubmitButton:hover {
     background-color: rgb(1, 114, 114);
-  } */
+  }
   
 
