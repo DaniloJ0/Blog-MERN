@@ -1,4 +1,3 @@
-import User from "../models/user_model.js";
 import Post from "../models/post_model.js";
 
 //Create
